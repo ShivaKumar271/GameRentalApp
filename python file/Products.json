@@ -1,0 +1,18 @@
+[
+    {
+        "Seller Username": "TestSeller1",
+        "Product ID": "IHEG",
+        "Product Title": "Far Cry 2",
+        "Product Type": "Game CD",
+        "Price Per Day": 70,
+        "Total Stock Available": 10
+    },
+    {
+        "owner": "a",
+        "ID": 1,
+        "title": "a",
+        "type": "a",
+        "price_per_day": 1,
+        "total_stock_available": 1
+    }
+]
